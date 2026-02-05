@@ -1,2 +1,3 @@
 monster_corp | HTTP 401
 midgettossing | HTTP 401
+maze_final | HTTP 401
