@@ -1,6 +1,6 @@
 {
   "pack": 8,
-  "sizeMB": 66.49142456054688,
+  "sizeMB": 70.47097969055176,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -2366,6 +2366,7 @@
     "logic_matches",
     "linkovision",
     "lifetime-open-house",
-    "love-tester-deluxe"
+    "love-tester-deluxe",
+    "localUpload_flash"
   ]
 }
