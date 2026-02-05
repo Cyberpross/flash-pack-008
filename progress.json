@@ -1,6 +1,6 @@
 {
   "pack": 8,
-  "sizeMB": 960.2288656234741,
+  "sizeMB": 960.6144342422485,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -2681,6 +2681,7 @@
     "make-your-own-bush-speech",
     "makeahero",
     "mad-shark",
-    "make-a-scene-easter-egg-hunt"
+    "make-a-scene-easter-egg-hunt",
+    "makeamrmenflashgame"
   ]
 }
