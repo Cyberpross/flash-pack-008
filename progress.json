@@ -1,6 +1,6 @@
 {
   "pack": 8,
-  "sizeMB": 837.0210132598877,
+  "sizeMB": 838.5019054412842,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -2622,6 +2622,7 @@
     "memory_match.swf",
     "myavatareditor",
     "mario-has-an-accident",
-    "mario_jeux_flash_game"
+    "mario_jeux_flash_game",
+    "math_machine"
   ]
 }
