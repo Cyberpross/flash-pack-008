@@ -1,6 +1,6 @@
 {
   "pack": 8,
-  "sizeMB": 830.9794626235962,
+  "sizeMB": 831.0630722045898,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -2619,6 +2619,7 @@
     "master-shakes-diving-contest",
     "metal-sonic-jigsaw-puzzle",
     "mk-vs-sf",
-    "memory_match.swf"
+    "memory_match.swf",
+    "myavatareditor"
   ]
 }
