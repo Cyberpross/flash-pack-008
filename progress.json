@@ -1,6 +1,6 @@
 {
   "pack": 8,
-  "sizeMB": 203.39410877227783,
+  "sizeMB": 203.45450973510742,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -2412,6 +2412,7 @@
     "monkey01_flash",
     "monster-wheels_flash",
     "monster_corp",
-    "monstermaster_202401"
+    "monstermaster_202401",
+    "ma2_20230903"
   ]
 }
