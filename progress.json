@@ -1,6 +1,6 @@
 {
   "pack": 8,
-  "sizeMB": 308.8911838531494,
+  "sizeMB": 312.56078720092773,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -2452,6 +2452,7 @@
     "marshmallow2_ruffle",
     "match-shapes",
     "mario-space-age",
-    "mario-space-age-2"
+    "mario-space-age-2",
+    "marioflash2"
   ]
 }
